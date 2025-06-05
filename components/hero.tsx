@@ -4,6 +4,7 @@ export function Hero() {
       Test CI/CD
       Add Preview Mode
       Update Pipeline Workflow
+      Test Work flow
     </div>
   );
 }
